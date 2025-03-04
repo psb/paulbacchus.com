@@ -1,8 +1,5 @@
 {
   "name": "paulbacchuscom",
   "compatibility_date": "2025-03-04",
-  "compatibility_flags": ["nodejs_compat"],
-  "assets": {
-    "directory": "./dist"
-  }
+  "compatibility_flags": ["nodejs_compat"]
 }
